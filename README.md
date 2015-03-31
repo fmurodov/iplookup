@@ -6,7 +6,7 @@ geoiplookup (geoip-bin package)
 ```bash
 $ apt-get install geoip-bin
 ```
-usage:  
+### usage:  
 get ip list file on input  
 ```bash
 $./iplookup.sh iplist.txt  
